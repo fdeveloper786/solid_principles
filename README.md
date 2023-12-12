@@ -1,4 +1,5 @@
 # solid_principles
+The SOLID principles make arguments for how code should be split up, which parts should be internal or exposed, and how code should use other code.
 
 A new Flutter project.
 
